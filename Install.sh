@@ -4,7 +4,7 @@ echo "########Performing update########"
 apt-get update
 
 echo "########Performing upgrade########"
-apt-get upgrade
+
 
 echo "########Installing xfce4 environment########"
 apt-get install kali-defaults kali-root-login desktop-base xfce4 xfce4-places-plugin xfce4-goodies
