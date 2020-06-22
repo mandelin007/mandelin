@@ -1,9 +1,8 @@
-echo "####Drx. jagrat kori 💘 Er.jyoti kori####"
+echo "####Drx. jagrat kori 💘 Er.Ryzen kori####"
 
 echo "########Performing update########"
 apt-get update
 
-echo "########Performing upgrade########"
 
 
 echo "########Installing xfce4 environment########"
