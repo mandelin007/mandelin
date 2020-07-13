@@ -3,6 +3,10 @@ echo "####Drx. jagrat kori 💘 Er.Ryzen kori####"
 echo "########Performing update########"
 apt-get update
 
+echo "########Performing upgrade########"
+apt-get upgrade
+
+
 
 
 echo "########Installing xfce4 environment########"
